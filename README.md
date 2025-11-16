@@ -2,7 +2,7 @@
 
 Course project for **CS768: Learning With Graphs** (Spring 2025, IIT Bombay) under **Prof. Abir De**.
 
-The project builds a **directed citation graph** from BibTeX-style metadata and then performs **link prediction** to suggest likely missing citations for a given paper.
+The project builds a **directed citation graph** from BibTeX-style metadata and then performs **link prediction** to suggest likely  citations for a given paper based on the Title and Abstract.
 
 ---
 
